@@ -1,0 +1,9 @@
+{
+    "main": "securities-raml-fragment.raml",
+    "name": "securities-raml-fragment",
+    "classifier": "raml-fragment",
+    "tags": [
+        "trait"
+    ],
+    "dependencies": []
+}
